@@ -2,7 +2,7 @@
 - 👀 I’m interested in process
 - 🌱 I’m currently learning in process
 - 💞️ I’m looking to collaborate on (in) process
-- 📫 How to reach me
+- 📫 How to reach me  
   -> email: vaeruiz@gmail.com
 
 <!---
