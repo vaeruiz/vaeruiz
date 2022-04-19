@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaeruiz
-- 👀 I’m interested in process
-- 🌱 I’m currently learning in process
+- 👀 I’m interested in automation code in any language
+- 🌱 I’m currently learning in 
 - 📫 How to reach me  
       -> email: vaeruiz@gmail.com
 
