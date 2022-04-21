@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaeruiz
 - 👀 I’m interested in programming with many languages
-- 🌱 I’m currently learning in all i can
+- 🌱 I’m currently learning all i can
 - 📫 How to reach me  
       -> email: vaeruiz@gmail.com
 
