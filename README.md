@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm vaeruiz</h1>
-<h3 align="center">A passionate developer of OS process automation, security, web application deployment, databases, networks and more.</h3>
+<h3 align="center">A passionate developer of OS process automation, security, web application deployment, databases, computer networks and more.</h3>
 
 - 🔭 I’m currently working on [BackupGames](https://github.com/vaeruiz/BackupGames)
 
